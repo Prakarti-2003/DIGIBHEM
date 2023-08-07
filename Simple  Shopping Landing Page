@@ -1,0 +1,268 @@
+INDEX.html:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Shopping Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Online Store</h1>
+    </header>
+
+    <main>
+ 
+    <div class="product-card">
+        <img src="data:image/jpeg;base64,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">
+        <h1>Product 1</h1>
+        <p>Lipstick</p>
+        <p>Price: ₹740</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+        <img src="https://5.imimg.com/data5/CA/DG/MY-4201946/versace-bright-crystal-women-perfume-500x500.jpg">
+        <h2>Product 2</h2>
+        <p>Perfume</p>
+        <p>Price: ₹550</p>
+        <button>Add to Cart</button>
+    </div>
+
+</main>
+
+
+
+</main>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Company</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+Style.css:-
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+.product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-card h2 {
+    margin-bottom: 5px;
+}
+
+.product-card p {
+    margin-bottom: 10px;
+}
+
+.product-card button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-card button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+script.js:-
+
+
+
+
+// JavaScript
+document.querySelectorAll('button').forEach(button => {
+    button.addEventListener('click', () => {
+        alert('Item added to the cart!');
+    });
+});
+
+INDEX.html:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Shopping Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Online Store</h1>
+    </header>
+
+    <main>
+ 
+    <div class="product-card">
+        <img src="data:image/jpeg;base64,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">
+        <h1>Product 1</h1>
+        <p>Lipstick</p>
+        <p>Price: ₹740</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+        <img src="https://5.imimg.com/data5/CA/DG/MY-4201946/versace-bright-crystal-women-perfume-500x500.jpg">
+        <h2>Product 2</h2>
+        <p>Perfume</p>
+        <p>Price: ₹550</p>
+        <button>Add to Cart</button>
+    </div>
+
+</main>
+
+
+
+</main>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Company</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+Style.css:-
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+.product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-card h2 {
+    margin-bottom: 5px;
+}
+
+.product-card p {
+    margin-bottom: 10px;
+}
+
+.product-card button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-card button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+script.js:-
+
+
+
+
+// JavaScript
+document.querySelectorAll('button').forEach(button => {
+    button.addEventListener('click', () => {
+        alert('Item added to the cart!');
+    });
+});
+
